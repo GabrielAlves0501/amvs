@@ -1,0 +1,60 @@
+body{
+    background-image: linear-gradient(to right, #243949 0%, #517fa4 100%);
+}
+body#sasuke{
+    background-color: darkslateblue;
+}
+body#naruto{
+    background-color: darkorange;
+}
+body#minato{
+    background-color: goldenrod;
+}
+body#lee{
+    background-color: darkgreen;
+}
+h1#titulo{
+    text-align: center;
+    color: azure;
+    text-transform: uppercase;
+    font-size: 45px;
+    letter-spacing: 4px;
+    text-shadow: 2px 2px 3px black;
+}
+h1#lutas{
+    text-align: center;
+    color: azure;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-shadow: 2px 2px 3px black;
+}
+img.thumb{
+    border-radius: 15%;
+    width: 200px;
+    height: 200px;
+    box-shadow: 5px 10px 5px black;
+}
+img:hover{
+    zoom: 105%;
+}
+p{
+    text-align: center;
+}
+p.youtube{
+    text-decoration: none;
+    color: azure;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+p#legenda{
+    color: azure;
+    font-size: 27px;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 3px black;
+}
+div.voltar{
+    text-align: center;
+}
+div.video{
+    text-align: center;
+}
